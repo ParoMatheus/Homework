@@ -2,6 +2,6 @@ x = int(input("First number?"))
 
 y = int(input("Second number?"))
 
-z = int(x/y)+True
+z = int((x-1)//y)+True
 
 print(z)
